@@ -1,3 +1,0 @@
-## Testing
-
-Just a Testing
