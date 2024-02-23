@@ -1,7 +1,7 @@
 +++
 title = 'Test'
 date = 2024-02-23T16:09:03-05:00
-draft = true
+draft = false
 +++
 
 # I am working on a Test
@@ -12,3 +12,7 @@ draft = true
 4. I can do more
 
 Link to [Youtube](https://www.youtube.com)
+
+![cards](/title_image.jpg)
+
+
