@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://booperdcss.github.io/3dBooper'
 languageCode = 'en-us'
 title = 'Roll 3dBooper'
 theme = 'ananke'
