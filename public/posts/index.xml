@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on Roll 3dBooper</title>
-    <link>http://localhost:1313/3dBooper/posts/</link>
+    <link>https://booperdcss.github.io/3dBooper/posts/</link>
     <description>Recent content in Posts on Roll 3dBooper</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 23 Feb 2024 16:09:03 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/3dBooper/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://booperdcss.github.io/3dBooper/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Test</title>
-      <link>http://localhost:1313/3dBooper/posts/test/</link>
+      <link>https://booperdcss.github.io/3dBooper/posts/test/</link>
       <pubDate>Fri, 23 Feb 2024 16:09:03 -0500</pubDate>
-      <guid>http://localhost:1313/3dBooper/posts/test/</guid>
+      <guid>https://booperdcss.github.io/3dBooper/posts/test/</guid>
       <description>I am working on a Test List Second list item Third list item and I can do more Link to Youtube</description>
     </item>
   </channel>
