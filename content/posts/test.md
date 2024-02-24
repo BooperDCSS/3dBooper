@@ -13,6 +13,6 @@ title: Test
 
 Link to [Youtube](https://www.youtube.com)
 
-![cards](/title_image.jpg)
+![cards](content/posts/title_image.jpg)
 
 
