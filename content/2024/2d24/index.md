@@ -44,4 +44,4 @@ Recording my successes and failures with these systems will be valuable to me on
 
 Eventually, I hope my experiments will lead to a campaign that I can play with others. In the meantime, I'll be rolling dice and writing about what happens when I do.
 
-[^1]: The classification of RPGs into "computer" (or "western") and "Japanese" categories is less helpful than someone millennial gamers might think. There has been a lot written about this lately. Check out [Rowan Kaiser's article at Engadget for an argument against this taxonomy](https://www.engadget.com/2012-02-16-east-is-west-how-two-classic-rpgs-prove-the-stereotypes-false.html).
+[^1]: The classification of RPGs into "computer" (or "western") and "Japanese" categories is less helpful than it at first appears. It's more of a proxy for the difference between computer and console games, but even that is fuzzy. There has been a lot written about this lately. Check out [Rowan Kaiser's article at Engadget for an argument against this taxonomy](https://www.engadget.com/2012-02-16-east-is-west-how-two-classic-rpgs-prove-the-stereotypes-false.html).
