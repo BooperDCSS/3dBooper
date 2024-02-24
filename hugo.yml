@@ -2,3 +2,14 @@ baseURL: https://booperdcss.github.io/3dBooper/
 languageCode: en-us
 title: Roll 3dBooper
 theme: PaperMod
+
+menu:
+  main:
+    - identifier: categories
+      name: categories
+      url: /categories/
+      weight: 10
+    - identifier: tags
+      name: tags
+      url: /tags/
+      weight: 20
