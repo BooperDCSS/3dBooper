@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://booperdcss.github.io/3dBooper/posts/</loc>
+    <loc>http://localhost:1313/3dBooper/posts/</loc>
     <lastmod>2024-02-23T16:09:03-05:00</lastmod>
   </url><url>
-    <loc>https://booperdcss.github.io/3dBooper/</loc>
+    <loc>http://localhost:1313/3dBooper/</loc>
     <lastmod>2024-02-23T16:09:03-05:00</lastmod>
   </url><url>
-    <loc>https://booperdcss.github.io/3dBooper/posts/test/</loc>
+    <loc>http://localhost:1313/3dBooper/posts/test/</loc>
     <lastmod>2024-02-23T16:09:03-05:00</lastmod>
   </url><url>
-    <loc>https://booperdcss.github.io/3dBooper/categories/</loc>
+    <loc>http://localhost:1313/3dBooper/categories/</loc>
   </url><url>
-    <loc>https://booperdcss.github.io/3dBooper/tags/</loc>
+    <loc>http://localhost:1313/3dBooper/tags/</loc>
   </url>
 </urlset>
