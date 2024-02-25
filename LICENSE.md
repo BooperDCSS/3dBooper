@@ -1,4 +1,23 @@
-MIT License
+# Articles
+
+All written content found inside the `content` or `static` folders (and their subfolders) at [https://github.com/BooperDCSS/3dBooper](https://github.com/BooperDCSS/3dBooper) are licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/).
+
+The attribution requirement is only met when:
+
+1. You provide my name and a copyright notice (e.g., copyright BooperDCSS);
+2. a license notice (CC BY-NC-ND 4.0 with link);
+3. a note about any modifications made;
+4. and a link to the material (i.e., a link to the post itself) 
+
+# Images
+
+Unless otherwise noted, all photographs found inside the `content` or `static` folders (and their subfolders) at [https://github.com/BooperDCSS/3dBooper](https://github.com/BooperDCSS/3dBooper) are copyrighted to BooperDCSS. All rights reserved.
+
+# Other files
+
+Files not mentioned above are licensed under MIT License (see below).
+
+# MIT License
 
 Copyright (c) 2024 BooperDCSS
 

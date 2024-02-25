@@ -2,37 +2,41 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://booperdcss.github.io/3dBooper/2024/</loc>
+    <loc>http://localhost:1313/3dBooper/2024/</loc>
     <lastmod>2024-02-24T14:44:06-05:00</lastmod>
   </url><url>
-    <loc>https://booperdcss.github.io/3dBooper/categories/</loc>
+    <loc>http://localhost:1313/3dBooper/categories/</loc>
     <lastmod>2024-02-24T14:44:06-05:00</lastmod>
   </url><url>
-    <loc>https://booperdcss.github.io/3dBooper/tags/crpgs/</loc>
+    <loc>http://localhost:1313/3dBooper/tags/crpgs/</loc>
     <lastmod>2024-02-24T14:44:06-05:00</lastmod>
   </url><url>
-    <loc>https://booperdcss.github.io/3dBooper/tags/final-fantasy/</loc>
+    <loc>http://localhost:1313/3dBooper/tags/final-fantasy/</loc>
     <lastmod>2024-02-24T14:44:06-05:00</lastmod>
   </url><url>
-    <loc>https://booperdcss.github.io/3dBooper/categories/introduction/</loc>
+    <loc>http://localhost:1313/3dBooper/categories/introduction/</loc>
     <lastmod>2024-02-24T14:44:06-05:00</lastmod>
   </url><url>
-    <loc>https://booperdcss.github.io/3dBooper/tags/jrpgs/</loc>
+    <loc>http://localhost:1313/3dBooper/tags/jrpgs/</loc>
     <lastmod>2024-02-24T14:44:06-05:00</lastmod>
   </url><url>
-    <loc>https://booperdcss.github.io/3dBooper/</loc>
+    <loc>http://localhost:1313/3dBooper/</loc>
     <lastmod>2024-02-24T14:44:06-05:00</lastmod>
   </url><url>
-    <loc>https://booperdcss.github.io/3dBooper/categories/solo-play/</loc>
+    <loc>http://localhost:1313/3dBooper/categories/solo-play/</loc>
     <lastmod>2024-02-24T14:44:06-05:00</lastmod>
   </url><url>
-    <loc>https://booperdcss.github.io/3dBooper/2024/2d24/</loc>
+    <loc>http://localhost:1313/3dBooper/2024/2d24/</loc>
     <lastmod>2024-02-24T14:44:06-05:00</lastmod>
   </url><url>
-    <loc>https://booperdcss.github.io/3dBooper/tags/swords--wizardry/</loc>
+    <loc>http://localhost:1313/3dBooper/tags/swords--wizardry/</loc>
     <lastmod>2024-02-24T14:44:06-05:00</lastmod>
   </url><url>
-    <loc>https://booperdcss.github.io/3dBooper/tags/</loc>
+    <loc>http://localhost:1313/3dBooper/tags/</loc>
     <lastmod>2024-02-24T14:44:06-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/3dBooper/archives/</loc>
+  </url><url>
+    <loc>http://localhost:1313/3dBooper/search/</loc>
   </url>
 </urlset>

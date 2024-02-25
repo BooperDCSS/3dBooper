@@ -3,13 +3,32 @@ languageCode: en-us
 title: Roll 3dBooper
 theme: PaperMod
 
+params:
+  homeInfoParams:
+    Title: A blog for solo RPG play
+    Content: Rolling dice and writing about it. Recent posts below; archives, categories, tags, and a search up top. 
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON # necessary for search
+
 menu:
   main:
     - identifier: categories
       name: categories
       url: /categories/
-      weight: 10
+      weight: 20
     - identifier: tags
       name: tags
       url: /tags/
-      weight: 20
+      weight: 30
+    - identifier: archive
+      name: archives
+      url: /archives/
+      weight: 10
+    - identifier: search
+      name: search
+      url: /search/
+      weight: 40

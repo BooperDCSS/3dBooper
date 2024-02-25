@@ -3,6 +3,8 @@ title: 'Statement of Purpose'
 date: 2024-02-24T14:44:06-05:00
 draft: false
 author: Booper
+description: Blogging about the joys and challanges of solo tabletop RPG play
+summary: Blogging about the joys and challenges of solo tabletop RPG play.
 tags:
 - Swords & Wizardry
 - Final Fantasy
@@ -14,7 +16,7 @@ categories:
 ---
 ## The Quick Version
 
-I have always been enticed by tabletop roleplaying games (RPGs) and have almost always been frustrated in my attempts to play them. Now, I'm taking the frustration and channeling it into a running a solo campaign in the hope of converting it for group play sometime in the future. This blog will document my experience of learning to play solo RPGs and hopefully capture some useful thoughts that others can use when coming to the hobby. 
+I have always been enticed by tabletop roleplaying games (RPGs) and have almost always been frustrated in my attempts to play them. Now, I'm taking that frustration and channeling it into a running a solo campaign in the hope of converting it for group play sometime in the future. This blog will document my experience of learning to play solo RPGs and hopefully capture some useful thoughts that others can use when coming to the hobby. It will also give a good excuse to write. Writing has always improved my mental health and improving my mental health has always improved my thinking. 
 
 ## A Little Bio
 
@@ -44,4 +46,4 @@ Recording my successes and failures with these systems will be valuable to me on
 
 Eventually, I hope my experiments will lead to a campaign that I can play with others. In the meantime, I'll be rolling dice and writing about what happens when I do.
 
-[^1]: The classification of RPGs into "computer" (or "western") and "Japanese" categories is less helpful than it at first appears. It's more of a proxy for the difference between computer and console games, but even that is fuzzy. There has been a lot written about this lately. Check out [Rowan Kaiser's article at Engadget for an argument against this taxonomy](https://www.engadget.com/2012-02-16-east-is-west-how-two-classic-rpgs-prove-the-stereotypes-false.html).
+[^1]: The classification of RPGs into "computer" (or "western") and "Japanese" categories is less helpful than it at first appears. It's more of a proxy for the difference between computer and console games in the '80s and '90s, but even that is fuzzy. There has been a lot written about this lately. Check out [Rowan Kaiser's article at Engadget for one argument against the accuracy of this taxonomy](https://www.engadget.com/2012-02-16-east-is-west-how-two-classic-rpgs-prove-the-stereotypes-false.html). There's a decent [Wiki entry on the subject as well](https://en.wikipedia.org/wiki/Role-playing_video_game#Criticisms).

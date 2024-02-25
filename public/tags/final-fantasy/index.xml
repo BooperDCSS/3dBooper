@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Final Fantasy on Roll 3dBooper</title>
-    <link>https://booperdcss.github.io/3dBooper/tags/final-fantasy/</link>
+    <link>http://localhost:1313/3dBooper/tags/final-fantasy/</link>
     <description>Recent content in Final Fantasy on Roll 3dBooper</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 24 Feb 2024 14:44:06 -0500</lastBuildDate>
-    <atom:link href="https://booperdcss.github.io/3dBooper/tags/final-fantasy/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/3dBooper/tags/final-fantasy/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Statement of Purpose</title>
-      <link>https://booperdcss.github.io/3dBooper/2024/2d24/</link>
+      <link>http://localhost:1313/3dBooper/2024/2d24/</link>
       <pubDate>Sat, 24 Feb 2024 14:44:06 -0500</pubDate>
-      <guid>https://booperdcss.github.io/3dBooper/2024/2d24/</guid>
-      <description>The Quick Version I have always been enticed by tabletop roleplaying games (RPGs) and have almost always been frustrated in my attempts to play them. Now, I&amp;rsquo;m taking the frustration and channeling it into a running a solo campaign in the hope of converting it for group play sometime in the future. This blog will document my experience of learning to play solo RPGs and hopefully capture some useful thoughts that others can use when coming to the hobby.</description>
+      <guid>http://localhost:1313/3dBooper/2024/2d24/</guid>
+      <description>Blogging about the joys and challanges of solo tabletop RPG play</description>
     </item>
   </channel>
 </rss>
