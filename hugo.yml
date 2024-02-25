@@ -32,3 +32,7 @@ menu:
       name: search
       url: /search/
       weight: 40
+    - identifier: license
+      name: license
+      url: https://github.com/BooperDCSS/3dBooper/blob/main/LICENSE.md
+      weight: 50
