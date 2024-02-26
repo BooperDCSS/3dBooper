@@ -22,8 +22,8 @@ categories:
 
 There's no way I can write a succint and comprehensive guide to selecting the "best" core rulebook for use in a solo RPG. There is probably no such thing, and there are too may systems I have never played anyway; and too many more I have never even read. But I did a lot of research before making a choice for myself and I *can* share why I landed on [*Swords & Wizardry Complete Revised*](https://preview.drivethrurpg.com/en/product/438315/swords-wizardry-complete-rulebook-revised). Here's the short version:
 
-- Adaptability and flexibility are more important than almost anything else. Once I stopped worrying about the "perfect" system and paid close attention to what I wanted for myself, the choice also made itself.
-- I am most interested in building lore, developing characters, and forcing them to make difficult decisions, so finding something with snappy combat mattered. Looking through OSR systems seemed a natural first choice (more on that below).
+- Adaptable and flexible systems are more important to me than almost anything else. Once I stopped worrying about the "perfect" system and paid close attention to what I wanted my system to do for me, the decision almost made itself.
+- I am most interested in building lore, developing characters, and forcing them to make difficult decisions, so finding something with snappy combat mattered. I like fighting just fine, but I don't want to spend all my time there. Looking through OSR systems seemed a natural first choice (more on that below).
 - *Swords and Wizardry Complete Revised* offers a rules-light system that encourages improvisation and the creation of house rules. That alone is a great foundation for solo play.
 - It's inexpensive even in its complete version. Giving it a shot costs very little.
 - It is compatible with a ton of cheap, easy-to-find, and well-written material that can be found all over the Internet, including a whole host of classic D&D modules.
