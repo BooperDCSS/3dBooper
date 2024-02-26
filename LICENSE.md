@@ -1,8 +1,8 @@
 # Articles
 
-All written content found inside the `content` or `static` folders (and their subfolders) at [https://github.com/BooperDCSS/3dBooper](https://github.com/BooperDCSS/3dBooper) are licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/).
+All written content found inside the `content` or `static` folders (and their subfolders) at [https://github.com/BooperDCSS/3dBooper](https://github.com/BooperDCSS/3dBooper) are licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). This includes the same articles found in the `public` folder, which replicates much of that content.
 
-The attribution requirement is only met when:
+Attribution requirements are met only when:
 
 1. You provide my name and a copyright notice (e.g., copyright BooperDCSS);
 2. a license notice (CC BY-NC-ND 4.0 with link);
