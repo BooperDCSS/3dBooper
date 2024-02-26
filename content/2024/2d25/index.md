@@ -29,9 +29,9 @@ There's no way I can write a succint and comprehensive guide to selecting the "b
 - It is compatible with a ton of cheap, easy-to-find, and well-written material that can be found all over the Internet, including a whole host of classic D&D modules.
 - It offers an expanded ruleset without over-complicating the game and is extremely easy to learn because it is so informative and inviting to new players unfamiliar with the hobby. 
 
-In summary, it combines a low barrier to access with a comprehensive system that is easy to hack and modify for solo gameplay. It also implicitly acknowledges D&D's history of racism and colonialism. The small modifications it makes to its to common RPG terminology is important and that I believe future players of my campaign will appreciate it. There aren't a lot of major changes of that kind in the book, but it's a start.
+In summary, it combines a low barrier to access with a comprehensive system that is easy to hack and modify for solo gameplay. It also implicitly acknowledges D&D's history of racism and colonialism. The small modifications it makes to common RPG terminology matter and I believe future players of my campaign will appreciate it. There honestly aren't many major changes of that kind in the book, but what is there is a good start.
 
-As I have already, there probably aren't too many bad system choices for solo play within the OSR constellation of games. As I'll point out in future posts, the oracle system for solo play probably matters a lot more.
+As I have already said, there probably aren't too many bad system choices for solo play within the OSR constellation of games. As I'll point out in future posts, the oracle system for solo play probably matters a lot more.
 
 > Quick note: I link to DriveThruRPG because they host free official content from various publishers. Using their site is largely a matter of convenience. I do not work for them nor do I make money from them if you click on my links.
 
