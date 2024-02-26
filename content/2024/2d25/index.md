@@ -5,18 +5,17 @@ draft: false
 author: Booper
 description: How I decided on a core system for my first solo campaign
 summary: How I decided on a core system for my first solo campaign.
-tags:
+categories:
 - solo play
 - core rulebook
 - systems
-- improvisation
-- rules-light
-categories:
+tags:
 - Swords & Wizardry
 - Original D&D
 - OD&D
 - TTRPG
 - OSR
+- improvisation
 ---
 ## The Short Version
 
