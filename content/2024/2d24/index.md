@@ -16,7 +16,7 @@ categories:
 ---
 ## The Quick Version
 
-I have always been enticed by tabletop roleplaying games (RPGs) and have almost always been frustrated in my attempts to play them. Now, I'm taking that frustration and channeling it into a running a solo campaign in the hope of converting it for group play sometime in the future. This blog will document my experience of learning to play solo RPGs and hopefully capture some useful thoughts that others can use when coming to the hobby. It will also give a good excuse to write. Writing has always improved my mental health and improving my mental health has always improved my thinking. 
+I have always been enticed by tabletop roleplaying games (RPGs) and have almost always been frustrated in my attempts to play them. Now, I'm taking that frustration and channeling it into a running a solo campaign in the hope of converting it for group play sometime in the future. This blog will document my experiences learning to play solo RPGs and will hopefully generate some useful advice for others interested in the hobby. It will also give me a good excuse to write more. Writing has always improved my mental health and improving my mental health has always improved my thinking. 
 
 ## A Little Bio
 

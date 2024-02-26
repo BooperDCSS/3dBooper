@@ -11,7 +11,7 @@ The attribution requirement is only met when:
 
 # Images
 
-Unless otherwise noted, all photographs found inside the `content` or `static` folders (and their subfolders) at [https://github.com/BooperDCSS/3dBooper](https://github.com/BooperDCSS/3dBooper) are copyrighted to BooperDCSS. All rights reserved.
+Unless otherwise noted, all photographs, images, and document artifacts presented in image form (including PDF) found inside the `content` or `static` folders (and their subfolders) at [https://github.com/BooperDCSS/3dBooper](https://github.com/BooperDCSS/3dBooper) are copyrighted to BooperDCSS. All rights reserved.
 
 # Other files
 

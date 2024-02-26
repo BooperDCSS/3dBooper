@@ -35,4 +35,8 @@ menu:
     - identifier: license
       name: license
       url: https://github.com/BooperDCSS/3dBooper/blob/main/LICENSE.md
+      weight: 60
+    - identifier: about
+      name: about
+      url: /about/
       weight: 50
