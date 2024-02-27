@@ -57,7 +57,14 @@ What's a wrinkle?
 
 In short, monsters should be doing something when you come across them. They don't exist merely as obstacles for the party, but have a life of their own, probably one that contributes to the fiction of the place where they exist. This is a wrinkle because it takes the idea of an encounter out of the purely combative and bunches it up, giving it texture and meaning in multiple dimensions. 
 
-I love this idea, so I took his d30 table and edited it slightly for an easy d12 or d20 roll. In total imitation of Nick's idea, you use d12 dice for animal encounters and d20 for creatures that behave more or less like humans. If you roll an animal-like activity on a human-like creature, just improvise. It's not hard imagining any of these activites in a person, a kobold, or a dragon.
+I love this idea, so I took the d30 table and edited it 
+slightly for an easy d12 or d20 roll. In total imitation
+ of Nick's idea, I use d12 dice for animal encounters 
+and d20 for creatures that behave more or less like 
+humans. If I roll an animal-like activity on a 
+human-like creature, I just improvise. It's not hard 
+imagining any of these activites in a person, a kobold, 
+or a dragon.
 
 ### The "Monsters Doing" Table
 
