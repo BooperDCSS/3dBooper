@@ -24,7 +24,17 @@ Imagine this for a moment.
 
 My party is searching through a network of caves, hoping to find a holy symbol that the leading character has seen in a vision. It is an artifact of great power, mythic even, but it's also unstable. Dangerous. Maybe evil.
 
-The caves are notorious for being filled with kobolds and goblins and there are countless rumors and legends about people disappearing inside them. Rooms are said to move around. People lose their memories and emerge days later, unsure what has happened. The party has been dilligent about gathering information. They're ready for this. They are moving carefully, keeping quiet, looking out for traps, and I am rolling for random encounters at semi-regular intervals. What they are doing is dangerous; some would call it crazy. I don't want it to be easy. And then I roll up a pair of goblins emerging from the darkness.
+The caves are notorious for being filled with kobolds and goblins and there are countless rumors and legends about people disappearing inside them. Entire caverns are said to move around, as if they magically switch positions within the caves. 
+
+People lose their memories and emerge days later, unsure what has happened to them. 
+
+Animals that venture into the caves sometimes emerge mutated and sickly.
+
+The party has been dilligent about gathering this information. They're ready for this. They are moving carefully, keeping quiet, looking out for traps... 
+
+... and I am rolling for random encounters at semi-regular intervals. What they are doing is dangerous; some would call it crazy. I don't want it to be easy. 
+
+And then I roll up a pair of goblins emerging from the darkness.
 
 > ### To the rulebook! 
 >First things first: check for surprise. Roll the dice. The party is surprised. Damn. Next, check for reaction. Are the goblins hostile? Roll the dice. They definitely are. My party is treating their home like a tourist attraction after all. This is going to be bad.
@@ -43,7 +53,7 @@ This kind of elision happens all over the place when we play RPGs, and that's fi
 
 There's a great post by Nick LS Whelan over at [Papers & Pencils](https://www.paperspencils.com/structuring-encounter-tables-amended-restated/) that completely reimagines RPG encounter tables. Because I want to experience playing at least some of *Swords & Wizardry* as written, I decided not to completely revamp the process, but I did find some inspiration in Nick's idea of a "wrinkle." 
 
-What's a wrinke?
+What's a wrinkle?
 
 In short, monsters should be doing something when you come across them. They don't exist merely as obstacles for the party, but have a life of their own, probably one that contributes to the fiction of the place where they exist. This is a wrinkle because it takes the idea of an encounter out of the purely combative and bunches it up, giving it texture and meaning in multiple dimensions. 
 
