@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Initiative on Roll 3dBooper</title>
+    <link>https://booperdcss.github.io/3dBooper/categories/initiative/</link>
+    <description>Recent content in Initiative on Roll 3dBooper</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 27 Feb 2024 10:36:13 -0500</lastBuildDate>
+    <atom:link href="https://booperdcss.github.io/3dBooper/categories/initiative/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Replace Initiative with Fiction</title>
+      <link>https://booperdcss.github.io/3dBooper/2024/2d27/</link>
+      <pubDate>Tue, 27 Feb 2024 10:36:13 -0500</pubDate>
+      <guid>https://booperdcss.github.io/3dBooper/2024/2d27/</guid>
+      <description>Old-school D&amp;amp;D has better options for encounters than rolling initiative</description>
+    </item>
+  </channel>
+</rss>

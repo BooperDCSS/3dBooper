@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Author on Roll 3dBooper</title>
+    <link>https://booperdcss.github.io/3dBooper/tags/author/</link>
+    <description>Recent content in Author on Roll 3dBooper</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 25 Feb 2024 14:20:09 -0500</lastBuildDate>
+    <atom:link href="https://booperdcss.github.io/3dBooper/tags/author/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Booper</title>
+      <link>https://booperdcss.github.io/3dBooper/about/</link>
+      <pubDate>Sun, 25 Feb 2024 14:20:09 -0500</pubDate>
+      <guid>https://booperdcss.github.io/3dBooper/about/</guid>
+      <description>About the author</description>
+    </item>
+  </channel>
+</rss>

@@ -6,20 +6,69 @@
     <description>Recent content in Categories on Roll 3dBooper</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 24 Feb 2024 14:44:06 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 04 Mar 2024 10:26:58 -0500</lastBuildDate>
     <atom:link href="https://booperdcss.github.io/3dBooper/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Introduction</title>
-      <link>https://booperdcss.github.io/3dBooper/categories/introduction/</link>
-      <pubDate>Sat, 24 Feb 2024 14:44:06 -0500</pubDate>
-      <guid>https://booperdcss.github.io/3dBooper/categories/introduction/</guid>
+      <title>Oracles</title>
+      <link>https://booperdcss.github.io/3dBooper/categories/oracles/</link>
+      <pubDate>Mon, 04 Mar 2024 10:26:58 -0500</pubDate>
+      <guid>https://booperdcss.github.io/3dBooper/categories/oracles/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Random Tables</title>
+      <link>https://booperdcss.github.io/3dBooper/categories/random-tables/</link>
+      <pubDate>Mon, 04 Mar 2024 10:26:58 -0500</pubDate>
+      <guid>https://booperdcss.github.io/3dBooper/categories/random-tables/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Combat</title>
+      <link>https://booperdcss.github.io/3dBooper/categories/combat/</link>
+      <pubDate>Tue, 27 Feb 2024 10:36:13 -0500</pubDate>
+      <guid>https://booperdcss.github.io/3dBooper/categories/combat/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Initiative</title>
+      <link>https://booperdcss.github.io/3dBooper/categories/initiative/</link>
+      <pubDate>Tue, 27 Feb 2024 10:36:13 -0500</pubDate>
+      <guid>https://booperdcss.github.io/3dBooper/categories/initiative/</guid>
       <description></description>
     </item>
     <item>
       <title>Solo Play</title>
       <link>https://booperdcss.github.io/3dBooper/categories/solo-play/</link>
-      <pubDate>Sat, 24 Feb 2024 14:44:06 -0500</pubDate>
+      <pubDate>Tue, 27 Feb 2024 10:36:13 -0500</pubDate>
       <guid>https://booperdcss.github.io/3dBooper/categories/solo-play/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Systems</title>
+      <link>https://booperdcss.github.io/3dBooper/categories/systems/</link>
+      <pubDate>Tue, 27 Feb 2024 10:36:13 -0500</pubDate>
+      <guid>https://booperdcss.github.io/3dBooper/categories/systems/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>World-Building</title>
+      <link>https://booperdcss.github.io/3dBooper/categories/world-building/</link>
+      <pubDate>Tue, 27 Feb 2024 10:36:13 -0500</pubDate>
+      <guid>https://booperdcss.github.io/3dBooper/categories/world-building/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Core Rulebook</title>
+      <link>https://booperdcss.github.io/3dBooper/categories/core-rulebook/</link>
+      <pubDate>Sun, 25 Feb 2024 14:31:07 -0500</pubDate>
+      <guid>https://booperdcss.github.io/3dBooper/categories/core-rulebook/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Introduction</title>
+      <link>https://booperdcss.github.io/3dBooper/categories/introduction/</link>
+      <pubDate>Sun, 25 Feb 2024 14:20:09 -0500</pubDate>
+      <guid>https://booperdcss.github.io/3dBooper/categories/introduction/</guid>
       <description></description>
     </item>
   </channel>

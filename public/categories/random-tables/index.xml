@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Random Tables on Roll 3dBooper</title>
+    <link>https://booperdcss.github.io/3dBooper/categories/random-tables/</link>
+    <description>Recent content in Random Tables on Roll 3dBooper</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 04 Mar 2024 10:26:58 -0500</lastBuildDate>
+    <atom:link href="https://booperdcss.github.io/3dBooper/categories/random-tables/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>d100 Mystical Visions, Dreams, and Nightmares</title>
+      <link>https://booperdcss.github.io/3dBooper/2024/3d4/</link>
+      <pubDate>Mon, 04 Mar 2024 10:26:58 -0500</pubDate>
+      <guid>https://booperdcss.github.io/3dBooper/2024/3d4/</guid>
+      <description>A table of random visions for clairvoyants, dreamers, and cursed prophets</description>
+    </item>
+  </channel>
+</rss>

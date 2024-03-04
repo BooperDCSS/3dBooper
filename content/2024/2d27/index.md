@@ -91,7 +91,7 @@ or a dragon.
 |  19  |  Destroying something   |
 |  20  |   Performing a ritual   |
 
-But if the monsters are doing something. Doesn't that alter what happens when you encounter them? Might that not create surprise? Or alert the party to their existence in advance? 
+But if the monsters are doing something, doesn't that alter what happens when you encounter them? Might that not create surprise? Or alert the party to their existence in advance? 
 
 If a group of goblins are found building a camp or holding captives, don't you think they would make a lot of noise? What if they were cooking or performing a ritual? Would the party notice before they encountered them?
 
@@ -103,11 +103,11 @@ One of the most helpful combat notes in *Swords & Wizardry* is concerned with mo
 
 > *Take note: **Monsters do not always leap to the attack. Unless they are on the alert for intruders, the Referee may roll 2d6 to determine whether the monsters attack if they surprise the adventurers.** On a roll of 2–6, the monsters are hostile and attack; on a roll of 7–9, the monsters withhold judgment and wait to see if the adventurers are hostile; on a roll of 10–12, the monsters have a positive initial reaction to seeing the adventurers and might even be convinced to offer some help — if they are well paid, of course!* (from page 35 of the *Complete Revised* edition; emphasis mine)
 
-If the monsters surprise the party, I can roll to see how the monsters react. Maybe they have the upper hand but don't realize it. Or maybe they aren't willing to engage in a battle because they feel they don't have the advantage. It's random, but it gives the situation more life.
+If the monsters surprise the party, I can roll to see how the monsters react. Maybe they have the upper hand but don't realize it. Or maybe they aren't willing to engage in a battle because they are more concerned with another task. It's random, but it gives the situation more life.
 
 But if the monsters are cooking, could they possibly surprise the party? Isn't it more likely the party would surprise them? Why roll on a table at all when the fiction established by the "Monster Doing" roll already tells us so much?
 
-Rolling for monster reactions may still be relevant if their reaction isn't clear from their activity (if goblins are patrolling, they're looking for intruders, and are probably ready to face them, but maybe the party greatly outnumbers them). But here is a place where we can replace the rules with narrative, drama, and world-building, and in solo play the opportunity to engage in any of those is almost always worth taking.
+Rolling for monster reactions may still be relevant if their reaction isn't clear from their activity (if goblins are patrolling, they're looking for intruders, and are probably ready to face them, but maybe the party greatly outnumbers them). Here is a place where we can replace the rules with narrative, drama, and world-building, and in solo play the opportunity to engage in any of those is almost always worth taking.
 
 ## Roll for uh... wait, didn't we see them first?
 
